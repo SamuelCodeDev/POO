@@ -1,0 +1,20 @@
+1. Em que momento os construtores são chamados?
+
+R: No momento em que irá criar um objeto.
+
+2. O que é um construtor padrão? Qual a sua finalidade?
+
+R: É um construtor que é criado pelo compilador caso a 
+classe não possua um;Ele têm a finalidade permitir a 
+criação de objetos não inicializados.
+
+3. Escreva todas as 8 diferentes formas de criar um objeto para o construtor:
+
+R:  Jogo Hollow_Knight;
+    Jogo The_Sims("The Sims");
+    Jogo Minecraft("Minecraft", 19.99);
+    Jogo Celeste = Jogo();
+    Jogo GTA_VI = Jogo("GTA VI");
+    Jogo Assassins_Creed = Jogo("Assassin's Creed", 59.99);
+    Jogo PUBG("PUBG", 29.99);
+    Jogo Fortnite {"Fortnite", 0};

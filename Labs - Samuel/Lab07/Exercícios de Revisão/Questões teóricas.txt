@@ -1,0 +1,18 @@
+1. Para que serve o ponteiro this?
+
+R: Para fazer referência aos atributos do objeto, para fazer referência
+ao próprio objeto
+
+2. Qual a diferença entre this e *this?
+
+R: O this é o endereço do objeto, enquanto o *this é próprio objeto 
+
+3. Qual o tipo do ponteiro this nos métodos abaixo?
+
+a. void Jogo::atualizar(float valor);
+
+R: O tipo do ponteiro "this" é "Jogo*", 
+
+b. void Jogo::exibir() const;
+
+R: O tipo do ponteiro "this" é "const Jogo*".

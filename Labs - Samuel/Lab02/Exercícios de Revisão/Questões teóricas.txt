@@ -1,0 +1,13 @@
+1. Qual a semelhança entre as classes e os tipos primitivos em C++?
+
+R: Os dois possuem dados e funções associados que serão utilizados
+após a inicialização das variáveis e objetos.
+
+2. Como um classe obtém encapsulamento e ocultação de dados?
+
+R: Ele obtém através do especificador de acesso private.
+
+3. De forma os métodos ajudam a manter a intregridade dos atributos?
+
+R: Eles garentem que os dados fiquem ocultos e permitem que façam operações,
+permitindo assim criar um interfase entre os atributos e usuários da classe. 

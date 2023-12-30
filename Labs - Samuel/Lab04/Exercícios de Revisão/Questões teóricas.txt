@@ -1,0 +1,13 @@
+1. Para que serve o operador de resolução de escopo?
+
+R: Para incicar para a que classe ele pertence, para permitir ter funções
+com o mesmo nome porém de classe diferentes. 
+
+2. Em que locais o operador de resolução de escopo não deve ser usado?
+
+R: Dentro da classe e dentro das funções membros para acessar membros.
+
+3. Existem duas formas de criar um método inline em C++. Quais são elas?
+
+R: Criando dentro da declaração da classe e/ou criando um protótipo da
+função dentro da classe e implementando no arquivo cpp. 

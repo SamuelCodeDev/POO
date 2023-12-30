@@ -1,0 +1,17 @@
+1. Como	uma	classe obtém uma abstração do mundo real?
+
+R: A abstração da classe dar-se em reter informações relevantes para resolver um determinado problema. 
+Com implementação de métodos e atributos, a classe guarda informações e funções que serão utilizadas 
+pelos objetos. Com isso características complexa do mundo real são resumidas e abstraidas para 
+construição de classes. 
+
+2. Qual	a relação entre	uma	classe e um	objeto?
+
+R: A classe é uma abstração de algum objeto, Enquanto o objeto é implementação da classe.
+
+3. De que formas as	funções	na abordagem orientada a objetos são diferentes	das
+funções	na programação estruturada?
+
+R: Na POO(programação orientada a objetos) as funções se tornam parte somente daquele objeto tornando-se 
+parte da classe. Enquanto na PE(programação estruturada) as funções são independentes, podendo elas 
+trabalhar ou não com objetos, contudo sem restrições.  

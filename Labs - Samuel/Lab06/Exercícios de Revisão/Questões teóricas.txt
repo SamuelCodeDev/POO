@@ -1,0 +1,12 @@
+1. Em que momento os destrutores são chamados?
+
+R: No final do programa quando objeto irá liberar memória.
+
+2. É sempre necessário criar um destrutor? O que acontece se não criarmos?
+
+R: É uma boa prática criar um destrutor para classe, porém se não fornecemos
+o compilador irá criar um para a classe.
+
+3. Para que servem os destrutores?
+
+R: Para desalocar memória no final do programa.

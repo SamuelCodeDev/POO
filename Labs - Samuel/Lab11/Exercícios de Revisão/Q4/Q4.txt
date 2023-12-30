@@ -1,0 +1,34 @@
+Vantagens de desvantagens de cada abordagem:
+
+1° abordagem:
+
+Vantagens:
+
+- Os dois tipos de vetores são armazenados em uma classe, permitindo operações diretas 
+entre as coordenadas, como acessar o valor de x e y.
+
+- Define métodos para converter entre representações cartesiana e polar internamente.
+
+Desvantagens:
+
+- Necessita recalcular magnitude, ângulo, x ou y sempre que uma dessas propriedades é 
+alterada, o que pode ser menos eficiente.
+
+- Exige converter entre as representações para realizar algumas operações.
+
+2° abordagem:
+
+Vantagens:
+
+- Armazena internamente apenas o tipo vetor necessário, deixando mais enxuto.
+
+- Implementa operações diretamente na representação vetor escolhido, sem necessidade de conversões.
+
+- Pode ser mais eficiente para operações com vetores.
+
+Desvantagens:
+
+- Operações por exemplo do tipo cartesiana ficam menos diretas para operações polar e vice-versa, 
+precisando converter entre as representações.
+
+- Precisa definir métodos para converter entre representações internamente.

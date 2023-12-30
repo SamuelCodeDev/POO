@@ -1,0 +1,13 @@
+1. Quais são as principais características de um TAD?
+
+R: Eles armazenam dados, fornecem operações, abstraem detalhes de implementação
+e podem ser usados com qualquer tipo de dado.
+
+2. Como criar constantes para definir o tamanho de membros de uma classe?
+
+R: Usando enumerações na classe ou usando membros estáticos, nesse caso variáveis
+estáticas para definir o tamanho do objeto.
+
+3. Como criar constantes que serão usadas apenas dentro de métodos da classe?
+
+R: Usando constantes na classe.
